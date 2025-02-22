@@ -1,10 +1,12 @@
 <h1 align="center">Hello guys👋, I'm Rizil Patel 👨‍💻</h1>
 <h3 align="center">AI/ML Enthusiast & Full-Stack Developer</h3>
+<img align="right" height="40%"  width="40%" src="https://imgs.search.brave.com/4gKc7-8frHIYB1y_6aGRfsgAU-voeH9EguF3lFXmKsI/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzIzOTc1/NS9zY3JlZW5zaG90/cy8zMDE5ODI0L2Rh/dmVfY29kaW5nX2Ry/aWJiYmxlLmdpZg.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnymaurya63&label=Profile%20views&color=0e75b6&style=flat" alt="sunnymaurya63" /> </p>
 
 
-- 👀 Passionate about **software development, AI/ML, and DevOps**. <br>  
+- 👀 Passionate about **software development, AI/ML**. <br>  
 - 🌱 Currently exploring **Machine Learning, Deep Learning, and Web Development**. <br>  
-- 💬 Ask me about **MERN Stack, DevOps, DSA, and AI/ML**. <br>  
+- 💬 Ask me about **MERN Stack, DSA, and AI/ML**. <br>  
 - 🎯 My long-term goal is to **build scalable applications and contribute to AI-driven innovations**. <br>  
 - 📫 **How to reach me?** Connect via [LeetCode](https://leetcode.com/rizilpatel9) | [GitHub](https://github.com/rizilpatel9) | [LinkedIn](https://www.linkedin.com/in/rizilpatel9/) | [Portfolio](#) <br>  
 - 💞️ Open to **collaborating on exciting projects and open-source contributions**. <br>  
