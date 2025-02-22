@@ -1,9 +1,6 @@
 <h1 align="center">Hello guys👋, I'm Rizil Patel 👨‍💻</h1>
-<h3 align="center">Competitive Programmer, AI/ML Enthusiast & Full-Stack Developer</h3>
+<h3 align="center">AI/ML Enthusiast & Full-Stack Developer</h3>
 
-<img align="right" height="40%"  width="40%" src="https://imgs.search.brave.com/4gKc7-8frHIYB1y_6aGRfsgAU-voeH9EguF3lFXmKsI/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzIzOTc3NTUvc2NyZWVuc2hvdHMvMzAxOTgyNC9kYXZlX2NvZGluZ19kcmlhYmJibGUuZ2lm.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizilpatel9&label=Profile%20views&color=0e75b6&style=flat" alt="rizilpatel9" /> </p>
 
 - 👀 Passionate about **software development, AI/ML, and DevOps**. <br>  
 - 🌱 Currently exploring **Machine Learning, Deep Learning, and Web Development**. <br>  
@@ -49,15 +46,4 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizilpatel9&show_icons=true&theme=dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizilpatel9&layout=compact&theme=dark" height="150" />
-</p>
 
----
-
-<h3 align="left">🖥️ Profile Banner:</h3>
-<p align="center">
-  <img src="https://your-image-link.png" width="600px">
-</p>
